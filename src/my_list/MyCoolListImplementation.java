@@ -3,7 +3,7 @@ package my_list;
 public class MyCoolListImplementation implements MyCoolList {
     @Override
     public int size() {
-        return 0;
+        return 123;
     }
 
     @Override
